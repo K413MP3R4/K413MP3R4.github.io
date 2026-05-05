@@ -1,0 +1,27 @@
+SITE AAROK GAMING - MISE EN LIGNE
+
+Dossier de travail :
+/home/hp-print/CODEX WORK/site Aarok - GAMING
+
+Dossier propre a uploader :
+/home/hp-print/CODEX WORK/site Aarok - GAMING/dist
+
+Important :
+Le dossier dist est la version propre pour l'hebergement. Il ne contient pas les
+anciens fichiers du template, les vieux scripts jQuery, ni le contactform inutile.
+
+Avant publication officielle :
+1. Remplacer dans sitemap.xml le chemin "/" par l'URL finale du site.
+   Exemple : https://ton-domaine.fr/
+2. Si tu as un vrai domaine, ajouter une balise canonical dans index.html.
+3. Verifier que le mail Aarok.pro@gmail.com est le bon.
+4. Uploader tout le contenu du dossier dist chez l'hebergeur.
+
+Fichiers de securite :
+- _headers : utile pour Netlify, Cloudflare Pages et certains hebergeurs statiques.
+- .htaccess : utile pour Apache.
+- SECURITY.md : notes de securite.
+
+Liens publics configures :
+- YouTube : https://www.youtube.com/@Aarok.gaming
+- TikTok : https://www.tiktok.com/@aarok.tv
